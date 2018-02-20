@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'lps-font';
+  src:  url('fonts/lps-font.eot?');
+  src:  url('fonts/lps-font.eot?#iefix') format('embedded-opentype'),
+    url('fonts/lps-font.ttf?') format('truetype'),
+    url('fonts/lps-font.woff?') format('woff'),
+    url('fonts/lps-font.svg?#lps-font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'lps-font' !important;
+  speak: none;
+  color: $black;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chart-search:before {
+  content: "\e90b";
+}
+.icon-search-bars:before {
+  content: "\e908";
+}
+.icon-pie-chart:before {
+  content: "\e907";
+}
+.icon-chart:before {
+  content: "\e90a";
+}
+.icon-graph:before {
+  content: "\e900";
+}
+.icon-money:before {
+  content: "\e909";
+}
+.icon-tick:before {
+  content: "\e906";
+}
+.icon-mail:before {
+  content: "\e903";
+}
+.icon-text-file:before {
+  content: "\e904";
+}
+.icon-display:before {
+  content: "\e905";
+}
+.icon-magnifying-glass:before {
+  content: "\e901";
+}
+.icon-dashboard:before {
+  content: "\e902";
+}

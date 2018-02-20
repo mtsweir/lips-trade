@@ -1,0 +1,978 @@
+// Brand colours
+
+$brand-primary:         #D8373A;
+$brand-secondary:       #03363D;
+
+$white:                 #fff;
+$grey-1:                #F5F3F4;
+$grey-2:                #DEE1E4;
+$grey-3:                #A0A0A0;
+$grey-4:                #666A73;
+$grey-5:                #484848;
+$grey-6:                #282C35;
+$black:                 #000;
+
+$body-font:             16px;
+$font-normal:           400;
+$font-medium:           500;
+
+$br:                    4px;
+
+/*
+    ======================================================================
+    #Typography
+    ======================================================================
+    Use .modal-content as the content wrapper.
+    Modal is made up of: modal-header, modal-body and modal-footer.
+
+    1. Both are the same, but some browsers support one and not the other.
+*/
+
+::selection {
+	background: lighten($brand-primary, 35);
+	color: $grey-5;
+	text-shadow: none;
+}
+
+html {
+	font-size: $body-font;
+}
+
+body {
+	color: $grey-5;
+	font-family: 'Poppins',-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,Helvetica,Tahoma,Arial,sans-serif;
+	font-size: $body-font;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.4;
+}
+
+p {
+	margin-bottom: 1.2rem;
+}
+
+.margin-trim {
+	margin-bottom: 0.6rem;
+}
+
+/*
+    ======================================================================
+    #Buttons
+    ======================================================================
+    Use .modal-content as the content wrapper.
+    Modal is made up of: modal-header, modal-body and modal-footer.
+
+    1. Both are the same, but some browsers support one and not the other.
+*/
+
+/* base */
+
+.btn {
+	font-weight: 500;
+	transition-property: background, border;
+	transition-duration: 0.25s;
+	
+  &:active,
+  &.active {
+    box-shadow: none !important;
+  }
+}
+
+.btn-primary {
+	&:hover {
+		background-color: darken($brand-primary, 5%) !important;
+		border-color: darken($brand-primary, 5%) !important;
+	}
+	&:focus {
+		background-color: darken($brand-primary, 5%) !important;
+		border-color: darken($brand-primary, 5%) !important;
+	}
+}
+
+.btn-inverse {
+	color: $brand-primary !important;
+	background-color: $white !important;
+
+	&:hover {
+		color: $brand-primary !important;
+		background-color: $white !important;
+	}
+	&:focus {
+		color: $brand-primary !important;
+		background-color: $white !important;
+	}
+}
+
+/*
+    ----------------------------------------------------------------------
+    #Buttons: outlined
+    ----------------------------------------------------------------------
+    Overlay provides a semi-transparent background behind modal.
+*/
+
+.btn-outline-primary {
+	color: $brand-primary;
+	background-image: none;
+	background-color: transparent;
+	border-color: $brand-primary;
+	&:hover {
+		color: darken($brand-primary, 5%);
+		border-color: darken($brand-primary, 5%);
+	}
+}
+
+.btn-outline-secondary {
+	color: $grey-3;
+	background-image: none;
+	background-color: transparent;
+	border-color: $grey-3;
+	&:hover {
+		color: darken($grey-3, 5%);
+		border-color: darken($grey-3, 5%);
+	}
+}
+
+.btn-outline-secondary--inversed {
+	color: $white;
+	background-image: none;
+	background-color: transparent;
+	border-color: $white;
+	&:hover {
+		color: $white;
+		border-color: $white;
+	}
+}
+
+.btn-offset-t2 {
+	margin-top: 2rem;
+}
+
+.btn-offset-t3 {
+	margin-top: 3rem;
+}
+
+.btn-offset-b2 {
+	margin-bottom: 2rem;
+}
+
+.btn-offset-b3 {
+	margin-bottom: 3rem;
+}
+
+.btn-group-inline a + a {
+	margin-left: 1rem;
+}
+
+
+.btn-muted {
+	background-color: $grey-3;
+	border-color: $grey-3;
+
+	&:hover {
+		background-color: $grey-3 !important;
+		border-color: $grey-3 !important;
+	}
+	&:focus {
+		background-color: $grey-3 !important;
+		border-color: $grey-3 !important;
+	}
+	&:active {
+		background-color: $grey-3 !important;
+		border-color: $grey-3 !important;
+	}
+}
+
+/*
+    ----------------------------------------------------------------------
+    #Buttons: sizes
+    ----------------------------------------------------------------------
+    Overlay provides a semi-transparent background behind modal.
+*/
+
+.btn-lg {
+	border-radius: $br;
+}
+
+.btn-xl {
+	padding: 14px 22px;
+	font-size: 18px;
+}
+
+
+
+/*
+    ======================================================================
+    #Forms
+    ======================================================================
+    Use .modal-content as the content wrapper.
+    Modal is made up of: modal-header, modal-body and modal-footer.
+
+    1. Both are the same, but some browsers support one and not the other.
+*/
+
+
+label {
+	font-weight: $font-medium;
+}
+
+.form-fieldset {
+	margin-bottom: 2rem;
+
+	legend {
+		margin-bottom: 0.5rem;
+		font-size: 1rem;
+		font-weight: $font-medium;
+		border: 0;
+	}
+
+	label {
+		margin-left: 0.25rem;
+		color: $grey-4;
+		font-weight: $font-normal;
+	}
+
+}
+
+.form-title {
+	margin: 2rem 0 1rem;
+}
+
+.input-lg {
+	@extend .btn-lg;
+}
+
+
+
+@media only screen and (max-width: 750px) {
+
+	.text-xs-center {
+		text-align: center;
+	}
+
+}
+
+@media only screen and (min-width: 768px) {
+
+	.text-md-right {
+		text-align: right;
+	}
+
+}
+
+/*
+    ======================================================================
+    #Modals
+    ======================================================================
+    Use .modal-content as the content wrapper.
+    Modal is made up of: modal-header, modal-body and modal-footer.
+
+    1. Both are the same, but some browsers support one and not the other.
+*/
+
+
+/*
+    ----------------------------------------------------------------------
+    #Modals: components
+    ----------------------------------------------------------------------
+    Overlay provides a semi-transparent background behind modal.
+*/
+
+
+.text-heading-mega {
+	font-size: 40px;
+	line-height: 1.2;
+	font-weight: 400;
+	color: #282C35;
+	text-rendering: optimizelegibility;
+}
+
+.hero-image-container {
+	transition: height 0.5s ease-in;
+	height: 36vw;
+	max-height: 500px;
+	position: relative;
+	background-color: $white;
+}
+
+.hero-image {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+	background-position: center center;
+}
+
+.hero-image::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: rgba(0,0,0,0.6);
+}
+
+.hero-image__content {
+	transform: translate(0,-50%);
+	color: $white;
+	position: absolute;
+	top: 50%;
+	width: 100%;
+}
+
+.text-heading-secondary {
+	font-size: 18px;
+	line-height: 26px;
+	font-weight: 400;
+	color: $grey-6;
+}
+
+.text-heading-medium {
+	font-size: 18px;
+	line-height: 26px;
+}
+
+.text-heading-callout {
+	margin-top: 0.25rem;
+	color: $brand-primary;
+}
+
+.text-heading--inversed {
+	color: $white;
+}
+
+.text-heading--muted {
+	color: $grey-4;
+}
+
+.text-heading--light {
+	color: $grey-3;
+}
+
+.g-cell {
+	margin: 0 auto;
+	padding-left: 15px;
+	padding-right: 15px;
+	max-width: 1170px;
+}
+
+.feature-list {
+	> li {
+		padding: 12px 0;
+		border-bottom: 1px solid $grey-2;
+	}
+}
+
+.feature-list--inner {
+	li {
+		padding: 4px 0;
+	}
+}
+
+.feature-list--icon {
+	> li {
+		padding-left: 30px;
+		position: relative;
+		&::before {
+			content: "\e906";
+			position: absolute;
+			left: 0;
+			color: $brand-primary;
+			font-family: 'lps-font' !important;
+		}
+	}
+}
+
+.feature-list-alt--icon {
+	> li {
+		position: relative;
+		padding-left: 35px;
+		margin-bottom: 1rem;
+		&::before {
+			content: "\e906";
+			position: absolute;
+			left: 0;
+			top: 1px;
+			color: #D8373A;
+			font-family: 'lps-font' !important;
+			background-color: lighten($brand-primary, 40);
+			border-radius: 50%;
+			width: 22px;
+			height: 22px;
+			line-height: 2.1;
+			font-weight: 700;
+			font-size: 11px;
+			text-align: center;
+		}
+	}
+}
+
+.container {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.marketing-section {
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+}
+
+.marketing-section--lg {
+	padding-top: 8rem;
+	padding-bottom: 8rem;
+}
+
+@media only screen and (max-width: 750px) {
+
+	.marketing-section {
+		padding-top: 2rem;
+		padding-bottom: 2rem;
+	}
+
+}
+
+
+
+.marketing-section--knowledge {
+	background-color: $grey-1;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
+.marketing-section--signup {
+	background-color: $brand-primary;
+}
+
+.landing-intro {
+	margin-bottom: 3rem;
+	max-width: 900px;
+
+	.btn-group-inline {
+		margin-top: 2rem;
+	}
+}
+
+@media only screen and (min-width: 768px) {
+
+	.landing-intro {
+		margin-bottom: 5rem;
+	}
+
+}
+
+.highlight-feature {
+	margin-bottom: 3rem;
+}
+
+.feature-icon {
+	margin-bottom: 2rem;
+	i {
+		font-size: 70px;
+	}
+}
+
+.highlight-feature:last-of-type {
+	margin-bottom: 0;
+}
+
+.highlight-feature > p:first-of-type {
+	margin-bottom: 0;
+}
+
+.tab-content {
+	padding: 2em 0;
+}
+
+.message-landing {
+	position: relative;
+	background-size: cover;
+	background-position: center;
+	padding: 3em 0;
+	transition: padding 0.5s ease-in;
+
+	&::before {
+		content: "";
+		position: absolute;
+		top: 0; left: 0; bottom: 0; right: 0;
+		width: 100%;
+		background-color: rgba(0,0,0,0.5);
+	}
+
+	.container {
+		position: relative;
+	}
+
+	.author {
+		margin: 0;
+    font-size: 20px;
+    letter-spacing: 0.0em;
+	}
+
+}
+
+.message-landing--primary {
+	background-color: $brand-secondary;
+}
+
+.message-landing--secondary {
+	background-color: $grey-1;
+	&::before {
+		content: none;
+	}
+}
+
+.callout {
+	display: block;
+	margin-bottom: 0;
+	padding: 50px 0;
+	font-size: 1.6rem;
+	font-weight: 500;
+	line-height: 1.4;
+}
+
+.callout--quotation {
+	font-size: 1.3rem;
+}
+
+@media only screen and (min-width: 768px) {
+
+	.callout--about {
+		padding-left: 40%;
+	}
+
+	.callout--quotation {
+		font-size: 1.8rem;
+	}
+
+}
+
+.pricing-table-container {
+	border: 0;
+}
+
+.pricing-choice-plan--header {
+	padding: 20px 8px !important;
+	text-align: center;
+	border: 10px solid $white !important;
+	background-color: lighten($brand-primary, 44);
+	vertical-align: top !important;
+
+	&.essential {
+		color: $white;
+		background-color: $brand-primary;
+	}
+
+	span {
+		display: block;
+		font-weight: $font-normal;
+		font-size: 0.9rem;
+	}
+
+	.pricing-choice-plan--title {
+		font-size: 1.25rem;
+	}
+
+}
+
+.pricing-choice-plan-col {
+	position: relative;
+	padding: 0 0 90px !important;
+	background-color: $grey-1;
+	border: 10px solid $white !important;
+	&.essential {
+		background-color: lighten($brand-primary, 44);
+	}
+}
+
+.pricing-choice-plan--prices {
+	background-color: $white;
+
+	.from {
+		display: block;
+		margin: 10px 0;
+		color: $grey-3;
+		font-style: italic;
+	}
+
+	.gst {
+		display: block;
+		margin: 6px 0 20px;
+		font-size: 0.7rem;
+		font-weight: $font-normal;
+		line-height: 1.2;
+		text-align: center;
+	}
+
+}
+
+.pricing-choice-plan-price {
+	font-size: 2.3rem;
+	text-align: center;
+	line-height: 1;
+}
+
+@media only screen and (max-width: 990px) {
+
+	.pricing-choice-plan--prices {
+		height: 100px;
+	}
+
+	.pricing-choice-plan-price {
+		font-size: 1.5rem;
+	}
+
+	.pricing-choice-plan--details {
+		padding: 10px 4px;
+	}
+
+}
+
+.pricing-choice-plan--details {
+	position: relative;
+	clear: both;
+	padding: 20px 12px;
+	font-size: 0.9rem;
+
+	ul {
+		margin: 0;
+	}
+
+	p {
+		font-size: 0.8rem;
+	}
+
+}
+
+.pricing-choice-plan--cta {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	padding: 12px;
+}
+
+
+.table-feature-includes--wrapper {
+	border: 1px solid $grey-2;
+	table {
+		margin-bottom: 0;
+	}
+}
+
+.table-feature-includes {
+	font-size: 0.9rem;
+
+	thead tr th:nth-child(n+2) {
+		text-align: center;
+	}
+
+	tbody tr td:nth-child(n+2) {
+		color: $brand-primary;
+		text-align: center;
+	}
+
+}
+
+.table-hover > tbody > tr:hover {
+  background-color: $grey-1;
+}
+
+.list-border-none {
+	padding-bottom: 0 !important;
+	border-bottom: 0 !important;
+}
+
+
+.footer {
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+}
+
+.footer-nav {
+	margin-bottom: 2rem;
+	padding-bottom: .75em;
+	border-bottom: 1px solid $grey-1;
+	
+	> li {
+		padding-left: 1em;
+		padding-right: 0;
+		&:first-of-type {
+			padding-left: 0;
+		}
+	}
+	a {
+		color: $grey-5;
+		font-weight: $font-medium;
+	}
+
+}
+
+
+.form-group--flex {
+	display: flex;
+}
+
+.form-group--flex-input-group {
+
+	> .form-control {
+		border-right-width: 0;
+		border-radius: $br 0 0 $br;
+	}
+
+	.btn {
+		border-radius: 0 $br $br 0;
+	}
+
+}
+
+.faq {
+	margin-bottom: 2rem;
+	padding-bottom: 1em;
+	border-bottom: 1px solid $grey-2;
+}
+
+.panel {
+	margin: 2rem auto 0;
+	max-width: 600px;
+
+	.panel-body {
+		padding: 30px;
+		color: $grey-6;
+	}
+
+}
+
+.section-image--feature {
+	display: block;
+	margin-top: 2rem;
+	font-size: 180px;
+}
+
+
+.nav-tabs > {
+	li.active > a,
+	li.active > a:focus {
+		color: $brand-primary;
+	}
+}
+
+@import "lps-font";
+
+
+.mb0 {
+	margin-bottom: 0 !important;
+}
+
+.mb1 {
+	margin-bottom: 1rem !important;
+}
+
+.mb2 {
+	margin-bottom: 2rem !important;
+}
+
+.mb3 {
+	margin-bottom: 3rem !important;
+}
+
+.mb4 {
+	margin-top: 4rem !important;
+}
+
+.mt0 {
+	margin-bottom: 0 !important;
+}
+
+.mt1 {
+	margin-top: 1rem !important;
+}
+
+.mt1--half {
+	margin-top: 1.5rem !important;
+}
+
+.mt2 {
+	margin-top: 2rem !important;
+}
+
+.mt3 {
+	margin-top: 3rem !important;
+}
+
+.mt4 {
+	margin-top: 4rem !important;
+}
+
+.pt0 {
+	padding-top: 0 !important;
+}
+
+.pb0 {
+	padding-bottom: 0 !important;
+}
+
+.circled {
+	position: relative;
+	margin: 0 auto;
+	display: block;
+	width: 22px;
+
+	&::before {
+		content: "\e906";
+		position: absolute;
+		left: 0;
+		top: 1px;
+		color: #D8373A;
+		font-family: 'lps-font' !important;
+		background-color: lighten($brand-primary, 40);
+		border-radius: 50%;
+		width: 22px;
+		height: 22px;
+		line-height: 2.1;
+		font-weight: 700;
+		font-size: 11px;
+		text-align: center;
+	}
+}
+
+.logo {
+	display: inline-block;
+	width: 95px;
+}
+
+
+@media only screen and (max-width: 479px) {
+
+	.hero-image-container {
+		height: 410px;
+	}
+
+	.text-heading-mega {
+		font-size: 26px;
+		line-height: 34px;
+	}
+	.text-heading-secondary {
+		font-size: 18px;
+		line-height: 24px;
+	}
+
+	.section-image--feature {
+		margin-bottom: 1rem;
+		font-size: 100px;
+	}
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 799px) {
+
+	.hero-image-container {
+		height: 54vw;
+	}
+
+}
+
+@media only screen and (min-width: 768px) {
+	
+	.logo {
+		margin-top: -10px;
+	}
+	.navbar-nav > li {
+		font-size: 15px;
+	}
+
+	.highlight-feature {
+		margin-bottom: 0;
+	}
+
+}
+
+
+.navbar {
+	margin-bottom: 0;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	border: 0;
+	min-height: auto;
+	border-radius: 0;
+}
+
+.navbar-nav > li > a:not(.btn) {
+	padding-top: 7px;
+	padding-bottom: 7px;
+	color: $grey-5;
+	&:hover {
+		color: $brand-primary;
+	}
+}
+
+.navbar-nav > li > a.btn {
+	padding: 6px 12px;
+}
+
+.navbar-nav > li > a:hover,
+.navbar-nav > li > a:focus {
+	background-color: transparent;
+}
+
+@media only screen and (max-width: 767px) {
+	
+	.logo {
+		margin-left: 15px;
+	}
+
+	.navbar-toggle {
+		padding: 6px 10px;
+		border-color: $grey-2;
+	}
+
+	.navbar-header {
+		padding-top: 8px;
+		padding-bottom: 8px;
+	}
+
+	.navbar {
+		padding: 0;
+		box-shadow: 0 0 15px -2px rgba(0,0,0,0.2);
+		.container {
+			padding-left: 15px;
+			padding-right: 15px;
+		}
+	}
+
+	.navbar-nav {
+		margin: 0;
+	}
+
+	.navbar-nav > li > a:not(.btn) {
+    padding-top: 10px;
+    padding-bottom: 10px;
+	}
+
+	#mobile-nav {
+		padding: 0 0 15px;
+		background-color: $grey-6;
+		li {
+			border-bottom: 1px solid rgba($white, 0.1);
+		}
+		.navbar-right {
+			li:last-of-type {
+				margin-top: 15px;
+				border: 0;
+			}
+		}
+		a {
+			color: $white;
+		}
+		.btn {
+			margin-left: 15px;
+			margin-right: 15px;
+			padding:  10px 6px;
+		}
+	}
+
+}
