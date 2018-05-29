@@ -7,7 +7,7 @@
 		"uuidString": "A33D582B-012A-4923-9079-612D1427321F"
 		}
 	],
-"creatorBuild": "26268",
+"creatorBuild": "26680",
 "files": {
 	"\/.bowerrc": {
 		"cB": 0,
@@ -1512,6 +1512,7 @@
 	"\/dist\/img\/lps-trade-home-hero-bg.jpg": {
 		"ft": 16384,
 		"iS": 114704,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/dist\/img\/lps-trade-home-hero-bg.jpg",
 		"oF": 0,
@@ -1522,6 +1523,7 @@
 	"\/dist\/img\/lps-trade-wine-glass-bg.jpg": {
 		"ft": 16384,
 		"iS": 128971,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/dist\/img\/lps-trade-wine-glass-bg.jpg",
 		"oF": 0,
@@ -2255,7 +2257,8 @@
 	"creationDate": 520132773,
 	"displayValue": "LIPS - Trade website",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "meme-trap"
+	"iconImageName": "\/test\/dummy_node_mincer\/apple-touch-icon-144-precomposed.png",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -4058,6 +4061,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
