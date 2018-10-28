@@ -1,5 +1,5 @@
 {
-"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and\/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https:\/\/codekitapp.com\/",
+"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https://codekitapp.com/",
 "buildSteps": [
 	{
 		"name": "Process All Remaining Files and Folders",
@@ -7,235 +7,235 @@
 		"uuidString": "A33D582B-012A-4923-9079-612D1427321F"
 		}
 	],
-"creatorBuild": "26680",
+"creatorBuild": "28795",
 "files": {
-	"\/.bowerrc": {
+	"/.bowerrc": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/.bowerrc",
+		"oAP": "/.bowerrc",
 		"oF": 0
 		},
-	"\/.gitignore": {
+	"/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/.gitignore",
+		"oAP": "/.gitignore",
 		"oF": 0
 		},
-	"\/about.html": {
+	"/about.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/about.html",
+		"oAP": "/dist/about.html",
 		"oF": 2
 		},
-	"\/assets\/fonts\/bootstrap\/glyphicons-halflings-regular.eot": {
+	"/assets/fonts/bootstrap/glyphicons-halflings-regular.eot": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/fonts\/bootstrap\/glyphicons-halflings-regular.eot",
+		"oAP": "/assets/fonts/bootstrap/glyphicons-halflings-regular.eot",
 		"oF": 0
 		},
-	"\/assets\/fonts\/bootstrap\/glyphicons-halflings-regular.svg": {
+	"/assets/fonts/bootstrap/glyphicons-halflings-regular.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/fonts\/bootstrap\/glyphicons-halflings-regular.svg",
+		"oAP": "/assets/fonts/bootstrap/glyphicons-halflings-regular.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/fonts\/bootstrap\/glyphicons-halflings-regular.ttf": {
+	"/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/fonts\/bootstrap\/glyphicons-halflings-regular.ttf",
+		"oAP": "/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf",
 		"oF": 0
 		},
-	"\/assets\/fonts\/bootstrap\/glyphicons-halflings-regular.woff": {
+	"/assets/fonts/bootstrap/glyphicons-halflings-regular.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/fonts\/bootstrap\/glyphicons-halflings-regular.woff",
+		"oAP": "/assets/fonts/bootstrap/glyphicons-halflings-regular.woff",
 		"oF": 0
 		},
-	"\/assets\/fonts\/bootstrap\/glyphicons-halflings-regular.woff2": {
+	"/assets/fonts/bootstrap/glyphicons-halflings-regular.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/fonts\/bootstrap\/glyphicons-halflings-regular.woff2",
+		"oAP": "/assets/fonts/bootstrap/glyphicons-halflings-regular.woff2",
 		"oF": 0
 		},
-	"\/assets\/images\/.keep": {
+	"/assets/images/.keep": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/images\/.keep",
+		"oAP": "/assets/images/.keep",
 		"oF": 0
 		},
-	"\/assets\/images\/lips-trade-logo.svg": {
+	"/assets/images/lips-trade-logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/lips-trade-logo.svg",
+		"oAP": "/dist/img/lips-trade-logo.svg",
 		"oF": 2,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/javascripts\/bootstrap-sprockets.js": {
+	"/assets/javascripts/bootstrap-sprockets.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/assets\/javascripts\/bootstrap-sprockets-min.js",
+		"oAP": "/assets/javascripts/bootstrap-sprockets-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/javascripts\/bootstrap.js": {
+	"/assets/javascripts/bootstrap.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bootstrap.js",
+		"oAP": "/dist/bootstrap.js",
 		"oF": 3,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/javascripts\/bootstrap.min.js": {
+	"/assets/javascripts/bootstrap.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bootstrap.min.js",
+		"oAP": "/dist/bootstrap.min.js",
 		"oF": 3,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/javascripts\/bootstrap\/affix.js": {
+	"/assets/javascripts/bootstrap/affix.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/assets\/javascripts\/bootstrap\/affix-min.js",
+		"oAP": "/assets/javascripts/bootstrap/affix-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/javascripts\/bootstrap\/alert.js": {
+	"/assets/javascripts/bootstrap/alert.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/assets\/javascripts\/bootstrap\/alert-min.js",
+		"oAP": "/assets/javascripts/bootstrap/alert-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/javascripts\/bootstrap\/button.js": {
+	"/assets/javascripts/bootstrap/button.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/assets\/javascripts\/bootstrap\/button-min.js",
+		"oAP": "/assets/javascripts/bootstrap/button-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/javascripts\/bootstrap\/carousel.js": {
+	"/assets/javascripts/bootstrap/carousel.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/assets\/javascripts\/bootstrap\/carousel-min.js",
+		"oAP": "/assets/javascripts/bootstrap/carousel-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/javascripts\/bootstrap\/collapse.js": {
+	"/assets/javascripts/bootstrap/collapse.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/assets\/javascripts\/bootstrap\/collapse-min.js",
+		"oAP": "/assets/javascripts/bootstrap/collapse-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/javascripts\/bootstrap\/dropdown.js": {
+	"/assets/javascripts/bootstrap/dropdown.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/assets\/javascripts\/bootstrap\/dropdown-min.js",
+		"oAP": "/assets/javascripts/bootstrap/dropdown-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/javascripts\/bootstrap\/modal.js": {
+	"/assets/javascripts/bootstrap/modal.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/assets\/javascripts\/bootstrap\/modal-min.js",
+		"oAP": "/assets/javascripts/bootstrap/modal-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/javascripts\/bootstrap\/popover.js": {
+	"/assets/javascripts/bootstrap/popover.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/assets\/javascripts\/bootstrap\/popover-min.js",
+		"oAP": "/assets/javascripts/bootstrap/popover-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/javascripts\/bootstrap\/scrollspy.js": {
+	"/assets/javascripts/bootstrap/scrollspy.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/assets\/javascripts\/bootstrap\/scrollspy-min.js",
+		"oAP": "/assets/javascripts/bootstrap/scrollspy-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/javascripts\/bootstrap\/tab.js": {
+	"/assets/javascripts/bootstrap/tab.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/assets\/javascripts\/bootstrap\/tab-min.js",
+		"oAP": "/assets/javascripts/bootstrap/tab-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/javascripts\/bootstrap\/tooltip.js": {
+	"/assets/javascripts/bootstrap/tooltip.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/assets\/javascripts\/bootstrap\/tooltip-min.js",
+		"oAP": "/assets/javascripts/bootstrap/tooltip-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/javascripts\/bootstrap\/transition.js": {
+	"/assets/javascripts/bootstrap/transition.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/assets\/javascripts\/bootstrap\/transition-min.js",
+		"oAP": "/assets/javascripts/bootstrap/transition-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/stylesheets\/_bootstrap-compass.scss": {
+	"/assets/stylesheets/_bootstrap-compass.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -243,12 +243,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/_bootstrap-compass.css",
+		"oAP": "/assets/stylesheets/_bootstrap-compass.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/_bootstrap-mincer.scss": {
+	"/assets/stylesheets/_bootstrap-mincer.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -256,12 +256,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/_bootstrap-mincer.css",
+		"oAP": "/assets/stylesheets/_bootstrap-mincer.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/_bootstrap-sprockets.scss": {
+	"/assets/stylesheets/_bootstrap-sprockets.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -269,12 +269,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/_bootstrap-sprockets.css",
+		"oAP": "/assets/stylesheets/_bootstrap-sprockets.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/_bootstrap.scss": {
+	"/assets/stylesheets/_bootstrap.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -282,12 +282,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/dist\/bootstrap.css",
+		"oAP": "/dist/bootstrap.css",
 		"oF": 3,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/_lps-font.scss": {
+	"/assets/stylesheets/_lps-font.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -295,12 +295,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/_lps-font.css",
+		"oAP": "/assets/stylesheets/_lps-font.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap-custom.scss": {
+	"/assets/stylesheets/bootstrap-custom.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -308,12 +308,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/dist\/bootstrap-custom.css",
+		"oAP": "/dist/bootstrap-custom.css",
 		"oF": 2,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_alerts.scss": {
+	"/assets/stylesheets/bootstrap/_alerts.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -321,12 +321,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_alerts.css",
+		"oAP": "/assets/stylesheets/bootstrap/_alerts.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_badges.scss": {
+	"/assets/stylesheets/bootstrap/_badges.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -334,12 +334,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_badges.css",
+		"oAP": "/assets/stylesheets/bootstrap/_badges.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_breadcrumbs.scss": {
+	"/assets/stylesheets/bootstrap/_breadcrumbs.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -347,12 +347,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_breadcrumbs.css",
+		"oAP": "/assets/stylesheets/bootstrap/_breadcrumbs.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_button-groups.scss": {
+	"/assets/stylesheets/bootstrap/_button-groups.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -360,12 +360,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_button-groups.css",
+		"oAP": "/assets/stylesheets/bootstrap/_button-groups.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_buttons.scss": {
+	"/assets/stylesheets/bootstrap/_buttons.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -373,12 +373,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_buttons.css",
+		"oAP": "/assets/stylesheets/bootstrap/_buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_carousel.scss": {
+	"/assets/stylesheets/bootstrap/_carousel.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -386,12 +386,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_carousel.css",
+		"oAP": "/assets/stylesheets/bootstrap/_carousel.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_close.scss": {
+	"/assets/stylesheets/bootstrap/_close.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -399,12 +399,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_close.css",
+		"oAP": "/assets/stylesheets/bootstrap/_close.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_code.scss": {
+	"/assets/stylesheets/bootstrap/_code.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -412,12 +412,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_code.css",
+		"oAP": "/assets/stylesheets/bootstrap/_code.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_component-animations.scss": {
+	"/assets/stylesheets/bootstrap/_component-animations.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -425,12 +425,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_component-animations.css",
+		"oAP": "/assets/stylesheets/bootstrap/_component-animations.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_dropdowns.scss": {
+	"/assets/stylesheets/bootstrap/_dropdowns.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -438,12 +438,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_dropdowns.css",
+		"oAP": "/assets/stylesheets/bootstrap/_dropdowns.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_forms.scss": {
+	"/assets/stylesheets/bootstrap/_forms.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -451,12 +451,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_forms.css",
+		"oAP": "/assets/stylesheets/bootstrap/_forms.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_glyphicons.scss": {
+	"/assets/stylesheets/bootstrap/_glyphicons.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -464,12 +464,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_glyphicons.css",
+		"oAP": "/assets/stylesheets/bootstrap/_glyphicons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_grid.scss": {
+	"/assets/stylesheets/bootstrap/_grid.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -477,12 +477,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_grid.css",
+		"oAP": "/assets/stylesheets/bootstrap/_grid.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_input-groups.scss": {
+	"/assets/stylesheets/bootstrap/_input-groups.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -490,12 +490,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_input-groups.css",
+		"oAP": "/assets/stylesheets/bootstrap/_input-groups.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_jumbotron.scss": {
+	"/assets/stylesheets/bootstrap/_jumbotron.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -503,12 +503,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_jumbotron.css",
+		"oAP": "/assets/stylesheets/bootstrap/_jumbotron.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_labels.scss": {
+	"/assets/stylesheets/bootstrap/_labels.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -516,12 +516,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_labels.css",
+		"oAP": "/assets/stylesheets/bootstrap/_labels.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_list-group.scss": {
+	"/assets/stylesheets/bootstrap/_list-group.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -529,12 +529,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_list-group.css",
+		"oAP": "/assets/stylesheets/bootstrap/_list-group.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_media.scss": {
+	"/assets/stylesheets/bootstrap/_media.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -542,12 +542,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_media.css",
+		"oAP": "/assets/stylesheets/bootstrap/_media.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_mixins.scss": {
+	"/assets/stylesheets/bootstrap/_mixins.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -555,12 +555,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_mixins.css",
+		"oAP": "/assets/stylesheets/bootstrap/_mixins.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_modals.scss": {
+	"/assets/stylesheets/bootstrap/_modals.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -568,12 +568,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_modals.css",
+		"oAP": "/assets/stylesheets/bootstrap/_modals.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_navbar.scss": {
+	"/assets/stylesheets/bootstrap/_navbar.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -581,12 +581,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_navbar.css",
+		"oAP": "/assets/stylesheets/bootstrap/_navbar.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_navs.scss": {
+	"/assets/stylesheets/bootstrap/_navs.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -594,12 +594,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_navs.css",
+		"oAP": "/assets/stylesheets/bootstrap/_navs.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_normalize.scss": {
+	"/assets/stylesheets/bootstrap/_normalize.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -607,12 +607,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_normalize.css",
+		"oAP": "/assets/stylesheets/bootstrap/_normalize.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_pager.scss": {
+	"/assets/stylesheets/bootstrap/_pager.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -620,12 +620,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_pager.css",
+		"oAP": "/assets/stylesheets/bootstrap/_pager.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_pagination.scss": {
+	"/assets/stylesheets/bootstrap/_pagination.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -633,12 +633,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_pagination.css",
+		"oAP": "/assets/stylesheets/bootstrap/_pagination.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_panels.scss": {
+	"/assets/stylesheets/bootstrap/_panels.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -646,12 +646,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_panels.css",
+		"oAP": "/assets/stylesheets/bootstrap/_panels.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_popovers.scss": {
+	"/assets/stylesheets/bootstrap/_popovers.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -659,12 +659,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_popovers.css",
+		"oAP": "/assets/stylesheets/bootstrap/_popovers.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_print.scss": {
+	"/assets/stylesheets/bootstrap/_print.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -672,12 +672,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_print.css",
+		"oAP": "/assets/stylesheets/bootstrap/_print.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_progress-bars.scss": {
+	"/assets/stylesheets/bootstrap/_progress-bars.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -685,12 +685,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_progress-bars.css",
+		"oAP": "/assets/stylesheets/bootstrap/_progress-bars.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_responsive-embed.scss": {
+	"/assets/stylesheets/bootstrap/_responsive-embed.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -698,12 +698,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_responsive-embed.css",
+		"oAP": "/assets/stylesheets/bootstrap/_responsive-embed.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_responsive-utilities.scss": {
+	"/assets/stylesheets/bootstrap/_responsive-utilities.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -711,12 +711,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_responsive-utilities.css",
+		"oAP": "/assets/stylesheets/bootstrap/_responsive-utilities.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_scaffolding.scss": {
+	"/assets/stylesheets/bootstrap/_scaffolding.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -724,12 +724,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_scaffolding.css",
+		"oAP": "/assets/stylesheets/bootstrap/_scaffolding.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_tables.scss": {
+	"/assets/stylesheets/bootstrap/_tables.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -737,12 +737,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_tables.css",
+		"oAP": "/assets/stylesheets/bootstrap/_tables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_theme.scss": {
+	"/assets/stylesheets/bootstrap/_theme.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -750,12 +750,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_theme.css",
+		"oAP": "/assets/stylesheets/bootstrap/_theme.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_thumbnails.scss": {
+	"/assets/stylesheets/bootstrap/_thumbnails.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -763,12 +763,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_thumbnails.css",
+		"oAP": "/assets/stylesheets/bootstrap/_thumbnails.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_tooltip.scss": {
+	"/assets/stylesheets/bootstrap/_tooltip.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -776,12 +776,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_tooltip.css",
+		"oAP": "/assets/stylesheets/bootstrap/_tooltip.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_type.scss": {
+	"/assets/stylesheets/bootstrap/_type.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -789,12 +789,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_type.css",
+		"oAP": "/assets/stylesheets/bootstrap/_type.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_utilities.scss": {
+	"/assets/stylesheets/bootstrap/_utilities.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -802,12 +802,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_utilities.css",
+		"oAP": "/assets/stylesheets/bootstrap/_utilities.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_variables.scss": {
+	"/assets/stylesheets/bootstrap/_variables.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -815,12 +815,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_variables.css",
+		"oAP": "/assets/stylesheets/bootstrap/_variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/_wells.scss": {
+	"/assets/stylesheets/bootstrap/_wells.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -828,12 +828,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/_wells.css",
+		"oAP": "/assets/stylesheets/bootstrap/_wells.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_alerts.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_alerts.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -841,12 +841,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_alerts.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_alerts.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_background-variant.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_background-variant.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -854,12 +854,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_background-variant.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_background-variant.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_border-radius.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_border-radius.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -867,12 +867,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_border-radius.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_border-radius.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_buttons.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_buttons.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -880,12 +880,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_buttons.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_center-block.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_center-block.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -893,12 +893,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_center-block.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_center-block.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_clearfix.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_clearfix.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -906,12 +906,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_clearfix.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_clearfix.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_forms.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_forms.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -919,12 +919,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_forms.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_forms.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_gradients.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_gradients.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -932,12 +932,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_gradients.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_gradients.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_grid-framework.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_grid-framework.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -945,12 +945,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_grid-framework.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_grid-framework.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_grid.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_grid.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -958,12 +958,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_grid.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_grid.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_hide-text.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_hide-text.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -971,12 +971,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_hide-text.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_hide-text.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_image.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_image.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -984,12 +984,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_image.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_image.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_labels.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_labels.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -997,12 +997,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_labels.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_labels.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_list-group.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_list-group.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1010,12 +1010,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_list-group.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_list-group.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_nav-divider.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_nav-divider.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1023,12 +1023,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_nav-divider.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_nav-divider.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_nav-vertical-align.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_nav-vertical-align.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1036,12 +1036,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_nav-vertical-align.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_nav-vertical-align.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_opacity.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_opacity.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1049,12 +1049,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_opacity.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_opacity.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_pagination.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_pagination.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1062,12 +1062,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_pagination.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_pagination.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_panels.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_panels.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1075,12 +1075,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_panels.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_panels.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_progress-bar.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_progress-bar.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1088,12 +1088,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_progress-bar.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_progress-bar.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_reset-filter.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_reset-filter.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1101,12 +1101,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_reset-filter.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_reset-filter.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_reset-text.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_reset-text.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1114,12 +1114,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_reset-text.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_reset-text.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_resize.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_resize.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1127,12 +1127,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_resize.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_resize.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_responsive-visibility.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_responsive-visibility.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1140,12 +1140,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_responsive-visibility.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_responsive-visibility.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_size.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_size.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1153,12 +1153,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_size.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_size.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_tab-focus.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_tab-focus.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1166,12 +1166,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_tab-focus.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_tab-focus.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_table-row.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_table-row.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1179,12 +1179,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_table-row.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_table-row.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_text-emphasis.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_text-emphasis.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1192,12 +1192,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_text-emphasis.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_text-emphasis.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_text-overflow.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_text-overflow.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1205,12 +1205,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_text-overflow.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_text-overflow.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/stylesheets\/bootstrap\/mixins\/_vendor-prefixes.scss": {
+	"/assets/stylesheets/bootstrap/mixins/_vendor-prefixes.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1218,34 +1218,34 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/stylesheets\/bootstrap\/mixins\/_vendor-prefixes.css",
+		"oAP": "/assets/stylesheets/bootstrap/mixins/_vendor-prefixes.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/benefits.html": {
+	"/benefits.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/benefits.html",
+		"oAP": "/dist/benefits.html",
 		"oF": 2
 		},
-	"\/bootstrap-sass.gemspec": {
+	"/bootstrap-sass.gemspec": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bootstrap-sass.gemspec",
+		"oAP": "/bootstrap-sass.gemspec",
 		"oF": 0
 		},
-	"\/bower.json": {
+	"/bower.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/bower-min.json",
+		"oAP": "/bower-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/CHANGELOG.md": {
+	"/CHANGELOG.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1254,7 +1254,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/CHANGELOG.html",
+		"oAP": "/CHANGELOG.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1263,22 +1263,22 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/composer.json": {
+	"/composer.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/composer-min.json",
+		"oAP": "/composer-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/contact.html": {
+	"/contact.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/contact.html",
+		"oAP": "/dist/contact.html",
 		"oF": 2
 		},
-	"\/CONTRIBUTING.md": {
+	"/CONTRIBUTING.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1287,7 +1287,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/CONTRIBUTING.html",
+		"oAP": "/CONTRIBUTING.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1296,439 +1296,439 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/demo.html": {
+	"/demo.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/demo.html",
+		"oAP": "/dist/demo.html",
 		"oF": 2
 		},
-	"\/dist\/about.html": {
+	"/dist/about.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/about.html",
+		"oAP": "/dist/about.html",
 		"oF": 0
 		},
-	"\/dist\/benefits.html": {
+	"/dist/benefits.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/benefits.html",
+		"oAP": "/dist/benefits.html",
 		"oF": 0
 		},
-	"\/dist\/bootstrap-custom.css": {
+	"/dist/bootstrap-custom.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/dist\/bootstrap-custom-min.css",
+		"oAP": "/dist/bootstrap-custom-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/dist\/bootstrap.css": {
+	"/dist/bootstrap.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/dist\/bootstrap-min.css",
+		"oAP": "/dist/bootstrap-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/dist\/bootstrap.css.map": {
+	"/dist/bootstrap.css.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/bootstrap.css.map",
+		"oAP": "/dist/bootstrap.css.map",
 		"oF": 0
 		},
-	"\/dist\/bootstrap.js": {
+	"/dist/bootstrap.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/dist\/bootstrap-min.js",
+		"oAP": "/dist/bootstrap-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/dist\/bootstrap.min.js": {
+	"/dist/bootstrap.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/dist\/bootstrap.min-min.js",
+		"oAP": "/dist/bootstrap.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/dist\/contact.html": {
+	"/dist/contact.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/contact.html",
+		"oAP": "/dist/contact.html",
 		"oF": 0
 		},
-	"\/dist\/demo.html": {
+	"/dist/demo.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/demo.html",
+		"oAP": "/dist/demo.html",
 		"oF": 0
 		},
-	"\/dist\/fonts\/icomoon.eot": {
+	"/dist/fonts/icomoon.eot": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/fonts\/icomoon.eot",
+		"oAP": "/dist/fonts/icomoon.eot",
 		"oF": 0
 		},
-	"\/dist\/fonts\/icomoon.svg": {
+	"/dist/fonts/icomoon.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/dist\/fonts\/icomoon.svg",
+		"oAP": "/dist/fonts/icomoon.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/dist\/fonts\/icomoon.ttf": {
+	"/dist/fonts/icomoon.ttf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/fonts\/icomoon.ttf",
+		"oAP": "/dist/fonts/icomoon.ttf",
 		"oF": 0
 		},
-	"\/dist\/fonts\/icomoon.woff": {
+	"/dist/fonts/icomoon.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/fonts\/icomoon.woff",
+		"oAP": "/dist/fonts/icomoon.woff",
 		"oF": 0
 		},
-	"\/dist\/img\/archiver.svg": {
+	"/dist/img/archiver.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/archiver.svg",
+		"oAP": "/dist/img/archiver.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/dist\/img\/bar-chart.svg": {
+	"/dist/img/bar-chart.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/bar-chart.svg",
+		"oAP": "/dist/img/bar-chart.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/dist\/img\/calendar-regular.svg": {
+	"/dist/img/calendar-regular.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/calendar-regular.svg",
+		"oAP": "/dist/img/calendar-regular.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/dist\/img\/calendar.svg": {
+	"/dist/img/calendar.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/calendar.svg",
+		"oAP": "/dist/img/calendar.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/dist\/img\/files.svg": {
+	"/dist/img/files.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/files.svg",
+		"oAP": "/dist/img/files.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/dist\/img\/folder.svg": {
+	"/dist/img/folder.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/folder.svg",
+		"oAP": "/dist/img/folder.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/dist\/img\/graph-regular.svg": {
+	"/dist/img/graph-regular.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/graph-regular.svg",
+		"oAP": "/dist/img/graph-regular.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/dist\/img\/lab.svg": {
+	"/dist/img/lab.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/lab.svg",
+		"oAP": "/dist/img/lab.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/dist\/img\/line-chart.svg": {
+	"/dist/img/line-chart.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/line-chart.svg",
+		"oAP": "/dist/img/line-chart.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/dist\/img\/lips-trade-logo.svg": {
+	"/dist/img/lips-trade-logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/lips-trade-logo.svg",
+		"oAP": "/dist/img/lips-trade-logo.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/dist\/img\/lps-trade-home-hero-bg.jpg": {
+	"/dist/img/lps-trade-home-hero-bg.jpg": {
 		"ft": 16384,
 		"iS": 114704,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/img\/lps-trade-home-hero-bg.jpg",
+		"oAP": "/dist/img/lps-trade-home-hero-bg.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/dist\/img\/lps-trade-wine-glass-bg.jpg": {
+	"/dist/img/lps-trade-wine-glass-bg.jpg": {
 		"ft": 16384,
 		"iS": 128971,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/img\/lps-trade-wine-glass-bg.jpg",
+		"oAP": "/dist/img/lps-trade-wine-glass-bg.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/dist\/img\/money-regular.svg": {
+	"/dist/img/money-regular.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/money-regular.svg",
+		"oAP": "/dist/img/money-regular.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/dist\/img\/notepad.svg": {
+	"/dist/img/notepad.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/notepad.svg",
+		"oAP": "/dist/img/notepad.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/dist\/img\/pie-chart.svg": {
+	"/dist/img/pie-chart.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/pie-chart.svg",
+		"oAP": "/dist/img/pie-chart.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/dist\/img\/search.svg": {
+	"/dist/img/search.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/search.svg",
+		"oAP": "/dist/img/search.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/dist\/img\/site-map-regular.svg": {
+	"/dist/img/site-map-regular.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/site-map-regular.svg",
+		"oAP": "/dist/img/site-map-regular.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/dist\/img\/target.svg": {
+	"/dist/img/target.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/target.svg",
+		"oAP": "/dist/img/target.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/dist\/index.html": {
+	"/dist/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/index.html",
+		"oAP": "/dist/index.html",
 		"oF": 0
 		},
-	"\/dist\/login.html": {
+	"/dist/login.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/login.html",
+		"oAP": "/dist/login.html",
 		"oF": 0
 		},
-	"\/dist\/pricing.html": {
+	"/dist/pricing.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/pricing.html",
+		"oAP": "/dist/pricing.html",
 		"oF": 0
 		},
-	"\/dist\/reports.html": {
+	"/dist/reports.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/reports.html",
+		"oAP": "/dist/reports.html",
 		"oF": 0
 		},
-	"\/dist\/terms.html": {
+	"/dist/terms.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/terms.html",
+		"oAP": "/dist/terms.html",
 		"oF": 0
 		},
-	"\/eyeglass-exports.js": {
+	"/eyeglass-exports.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/eyeglass-exports-min.js",
+		"oAP": "/eyeglass-exports-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/Gemfile": {
+	"/Gemfile": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/Gemfile",
+		"oAP": "/Gemfile",
 		"oF": 0
 		},
-	"\/index.html": {
+	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/index.html",
+		"oAP": "/dist/index.html",
 		"oF": 2
 		},
-	"\/lib\/bootstrap-sass.rb": {
+	"/lib/bootstrap-sass.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/lib\/bootstrap-sass.rb",
+		"oAP": "/lib/bootstrap-sass.rb",
 		"oF": 0
 		},
-	"\/lib\/bootstrap-sass\/engine.rb": {
+	"/lib/bootstrap-sass/engine.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/lib\/bootstrap-sass\/engine.rb",
+		"oAP": "/lib/bootstrap-sass/engine.rb",
 		"oF": 0
 		},
-	"\/lib\/bootstrap-sass\/version.rb": {
+	"/lib/bootstrap-sass/version.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/lib\/bootstrap-sass\/version.rb",
+		"oAP": "/lib/bootstrap-sass/version.rb",
 		"oF": 0
 		},
-	"\/LICENSE": {
+	"/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/LICENSE",
+		"oAP": "/LICENSE",
 		"oF": 0
 		},
-	"\/lips-trade.sublime-project": {
+	"/lips-trade.sublime-project": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/lips-trade.sublime-project",
+		"oAP": "/lips-trade.sublime-project",
 		"oF": 0
 		},
-	"\/lips-trade.sublime-workspace": {
+	"/lips-trade.sublime-workspace": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/lips-trade.sublime-workspace",
+		"oAP": "/lips-trade.sublime-workspace",
 		"oF": 0
 		},
-	"\/login.html": {
+	"/login.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/login.html",
+		"oAP": "/dist/login.html",
 		"oF": 2
 		},
-	"\/package.json": {
+	"/package.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/package-min.json",
+		"oAP": "/package-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/pricing.html": {
+	"/pricing.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/pricing.html",
+		"oAP": "/dist/pricing.html",
 		"oF": 2
 		},
-	"\/privacy.html": {
+	"/privacy.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/privacy.html",
+		"oAP": "/dist/privacy.html",
 		"oF": 2
 		},
-	"\/Rakefile": {
+	"/Rakefile": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/Rakefile",
+		"oAP": "/Rakefile",
 		"oF": 0
 		},
-	"\/README.md": {
+	"/README.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1737,7 +1737,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/README.html",
+		"oAP": "/README.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1746,85 +1746,85 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/reports.html": {
+	"/reports.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/reports.html",
+		"oAP": "/dist/reports.html",
 		"oF": 2
 		},
-	"\/reset.html": {
+	"/reset.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/reset.html",
+		"oAP": "/reset.html",
 		"oF": 0
 		},
-	"\/sache.json": {
+	"/sache.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/sache-min.json",
+		"oAP": "/sache-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/tasks\/bower.rake": {
+	"/tasks/bower.rake": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/tasks\/bower.rake",
+		"oAP": "/tasks/bower.rake",
 		"oF": 0
 		},
-	"\/tasks\/converter.rb": {
+	"/tasks/converter.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/tasks\/converter.rb",
+		"oAP": "/tasks/converter.rb",
 		"oF": 0
 		},
-	"\/tasks\/converter\/char_string_scanner.rb": {
+	"/tasks/converter/char_string_scanner.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/tasks\/converter\/char_string_scanner.rb",
+		"oAP": "/tasks/converter/char_string_scanner.rb",
 		"oF": 0
 		},
-	"\/tasks\/converter\/fonts_conversion.rb": {
+	"/tasks/converter/fonts_conversion.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/tasks\/converter\/fonts_conversion.rb",
+		"oAP": "/tasks/converter/fonts_conversion.rb",
 		"oF": 0
 		},
-	"\/tasks\/converter\/js_conversion.rb": {
+	"/tasks/converter/js_conversion.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/tasks\/converter\/js_conversion.rb",
+		"oAP": "/tasks/converter/js_conversion.rb",
 		"oF": 0
 		},
-	"\/tasks\/converter\/less_conversion.rb": {
+	"/tasks/converter/less_conversion.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/tasks\/converter\/less_conversion.rb",
+		"oAP": "/tasks/converter/less_conversion.rb",
 		"oF": 0
 		},
-	"\/tasks\/converter\/logger.rb": {
+	"/tasks/converter/logger.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/tasks\/converter\/logger.rb",
+		"oAP": "/tasks/converter/logger.rb",
 		"oF": 0
 		},
-	"\/tasks\/converter\/network.rb": {
+	"/tasks/converter/network.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/tasks\/converter\/network.rb",
+		"oAP": "/tasks/converter/network.rb",
 		"oF": 0
 		},
-	"\/templates\/project\/_bootstrap-variables.sass": {
+	"/templates/project/_bootstrap-variables.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1832,19 +1832,19 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/templates\/project\/_bootstrap-variables.css",
+		"oAP": "/templates/project/_bootstrap-variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/templates\/project\/manifest.rb": {
+	"/templates/project/manifest.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/templates\/project\/manifest.rb",
+		"oAP": "/templates/project/manifest.rb",
 		"oF": 0
 		},
-	"\/templates\/project\/styles.sass": {
+	"/templates/project/styles.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1852,44 +1852,44 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/templates\/project\/styles.css",
+		"oAP": "/templates/project/styles.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/terms.html": {
+	"/terms.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/terms.html",
+		"oAP": "/dist/terms.html",
 		"oF": 2
 		},
-	"\/test\/compass_test.rb": {
+	"/test/compass_test.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/compass_test.rb",
+		"oAP": "/test/compass_test.rb",
 		"oF": 0
 		},
-	"\/test\/compilation_test.rb": {
+	"/test/compilation_test.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/compilation_test.rb",
+		"oAP": "/test/compilation_test.rb",
 		"oF": 0
 		},
-	"\/test\/dummy_node_mincer\/apple-touch-icon-144-precomposed.png": {
+	"/test/dummy_node_mincer/apple-touch-icon-144-precomposed.png": {
 		"ft": 32768,
 		"iS": 3549,
 		"oA": 0,
-		"oAP": "\/test\/dummy_node_mincer\/apple-touch-icon-144-precomposed.png",
+		"oAP": "/test/dummy_node_mincer/apple-touch-icon-144-precomposed.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/test\/dummy_node_mincer\/application.css.ejs.scss": {
+	"/test/dummy_node_mincer/application.css.ejs.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1897,39 +1897,39 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/test\/dummy_node_mincer\/application.css.ejs.css",
+		"oAP": "/test/dummy_node_mincer/application.css.ejs.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/test\/dummy_node_mincer\/manifest.js": {
+	"/test/dummy_node_mincer/manifest.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/test\/dummy_node_mincer\/manifest-min.js",
+		"oAP": "/test/dummy_node_mincer/manifest-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/test\/dummy_rails\/app\/assets\/images\/.keep": {
+	"/test/dummy_rails/app/assets/images/.keep": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/app\/assets\/images\/.keep",
+		"oAP": "/test/dummy_rails/app/assets/images/.keep",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/app\/assets\/javascripts\/application.js": {
+	"/test/dummy_rails/app/assets/javascripts/application.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/test\/dummy_rails\/app\/assets\/javascripts\/application-min.js",
+		"oAP": "/test/dummy_rails/app/assets/javascripts/application-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/test\/dummy_rails\/app\/assets\/stylesheets\/application.sass": {
+	"/test/dummy_rails/app/assets/stylesheets/application.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1937,205 +1937,205 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/test\/dummy_rails\/app\/assets\/stylesheets\/application.css",
+		"oAP": "/test/dummy_rails/app/assets/stylesheets/application.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/test\/dummy_rails\/app\/controllers\/application_controller.rb": {
+	"/test/dummy_rails/app/controllers/application_controller.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/app\/controllers\/application_controller.rb",
+		"oAP": "/test/dummy_rails/app/controllers/application_controller.rb",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/app\/controllers\/pages_controller.rb": {
+	"/test/dummy_rails/app/controllers/pages_controller.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/app\/controllers\/pages_controller.rb",
+		"oAP": "/test/dummy_rails/app/controllers/pages_controller.rb",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/app\/helpers\/application_helper.rb": {
+	"/test/dummy_rails/app/helpers/application_helper.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/app\/helpers\/application_helper.rb",
+		"oAP": "/test/dummy_rails/app/helpers/application_helper.rb",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/app\/views\/layouts\/application.html.erb": {
+	"/test/dummy_rails/app/views/layouts/application.html.erb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/app\/views\/layouts\/application.html.erb",
+		"oAP": "/test/dummy_rails/app/views/layouts/application.html.erb",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/app\/views\/pages\/root.html.slim": {
+	"/test/dummy_rails/app/views/pages/root.html.slim": {
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
 		"llg": 0,
 		"oA": 0,
-		"oAP": "\/test\/dummy_rails\/app\/views\/pages\/root.html.html",
+		"oAP": "/test/dummy_rails/app/views/pages/root.html.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 1,
 		"rAC": 0
 		},
-	"\/test\/dummy_rails\/config.ru": {
+	"/test/dummy_rails/config.ru": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/config.ru",
+		"oAP": "/test/dummy_rails/config.ru",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/config\/application.rb": {
+	"/test/dummy_rails/config/application.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/config\/application.rb",
+		"oAP": "/test/dummy_rails/config/application.rb",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/config\/boot.rb": {
+	"/test/dummy_rails/config/boot.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/config\/boot.rb",
+		"oAP": "/test/dummy_rails/config/boot.rb",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/config\/environment.rb": {
+	"/test/dummy_rails/config/environment.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/config\/environment.rb",
+		"oAP": "/test/dummy_rails/config/environment.rb",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/config\/environments\/development.rb": {
+	"/test/dummy_rails/config/environments/development.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/config\/environments\/development.rb",
+		"oAP": "/test/dummy_rails/config/environments/development.rb",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/config\/environments\/production.rb": {
+	"/test/dummy_rails/config/environments/production.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/config\/environments\/production.rb",
+		"oAP": "/test/dummy_rails/config/environments/production.rb",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/config\/environments\/test.rb": {
+	"/test/dummy_rails/config/environments/test.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/config\/environments\/test.rb",
+		"oAP": "/test/dummy_rails/config/environments/test.rb",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/config\/initializers\/backtrace_silencers.rb": {
+	"/test/dummy_rails/config/initializers/backtrace_silencers.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/config\/initializers\/backtrace_silencers.rb",
+		"oAP": "/test/dummy_rails/config/initializers/backtrace_silencers.rb",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/config\/initializers\/filter_parameter_logging.rb": {
+	"/test/dummy_rails/config/initializers/filter_parameter_logging.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/config\/initializers\/filter_parameter_logging.rb",
+		"oAP": "/test/dummy_rails/config/initializers/filter_parameter_logging.rb",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/config\/initializers\/inflections.rb": {
+	"/test/dummy_rails/config/initializers/inflections.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/config\/initializers\/inflections.rb",
+		"oAP": "/test/dummy_rails/config/initializers/inflections.rb",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/config\/initializers\/mime_types.rb": {
+	"/test/dummy_rails/config/initializers/mime_types.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/config\/initializers\/mime_types.rb",
+		"oAP": "/test/dummy_rails/config/initializers/mime_types.rb",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/config\/initializers\/secret_token.rb": {
+	"/test/dummy_rails/config/initializers/secret_token.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/config\/initializers\/secret_token.rb",
+		"oAP": "/test/dummy_rails/config/initializers/secret_token.rb",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/config\/initializers\/session_store.rb": {
+	"/test/dummy_rails/config/initializers/session_store.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/config\/initializers\/session_store.rb",
+		"oAP": "/test/dummy_rails/config/initializers/session_store.rb",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/config\/initializers\/wrap_parameters.rb": {
+	"/test/dummy_rails/config/initializers/wrap_parameters.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/config\/initializers\/wrap_parameters.rb",
+		"oAP": "/test/dummy_rails/config/initializers/wrap_parameters.rb",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/config\/locales\/en.yml": {
+	"/test/dummy_rails/config/locales/en.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/config\/locales\/en.yml",
+		"oAP": "/test/dummy_rails/config/locales/en.yml",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/config\/locales\/es.yml": {
+	"/test/dummy_rails/config/locales/es.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/config\/locales\/es.yml",
+		"oAP": "/test/dummy_rails/config/locales/es.yml",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/config\/routes.rb": {
+	"/test/dummy_rails/config/routes.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/config\/routes.rb",
+		"oAP": "/test/dummy_rails/config/routes.rb",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/log": {
+	"/test/dummy_rails/log": {
 		"ft": 65536,
 		"oA": 1,
-		"oAP": "\/build\/test\/dummy_rails\/log",
+		"oAP": "/build/test/dummy_rails/log",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/Rakefile": {
+	"/test/dummy_rails/Rakefile": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/Rakefile",
+		"oAP": "/test/dummy_rails/Rakefile",
 		"oF": 0
 		},
-	"\/test\/dummy_rails\/README.rdoc": {
+	"/test/dummy_rails/README.rdoc": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_rails\/README.rdoc",
+		"oAP": "/test/dummy_rails/README.rdoc",
 		"oF": 0
 		},
-	"\/test\/dummy_sass_only\/compile.rb": {
+	"/test/dummy_sass_only/compile.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_sass_only\/compile.rb",
+		"oAP": "/test/dummy_sass_only/compile.rb",
 		"oF": 0
 		},
-	"\/test\/dummy_sass_only\/Gemfile": {
+	"/test/dummy_sass_only/Gemfile": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/dummy_sass_only\/Gemfile",
+		"oAP": "/test/dummy_sass_only/Gemfile",
 		"oF": 0
 		},
-	"\/test\/dummy_sass_only\/import_all.sass": {
+	"/test/dummy_sass_only/import_all.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2143,100 +2143,100 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/test\/dummy_sass_only\/import_all.css",
+		"oAP": "/test/dummy_sass_only/import_all.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/test\/gemfiles\/rails_head.gemfile": {
+	"/test/gemfiles/rails_head.gemfile": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/gemfiles\/rails_head.gemfile",
+		"oAP": "/test/gemfiles/rails_head.gemfile",
 		"oF": 0
 		},
-	"\/test\/gemfiles\/sass_3_3.gemfile": {
+	"/test/gemfiles/sass_3_3.gemfile": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/gemfiles\/sass_3_3.gemfile",
+		"oAP": "/test/gemfiles/sass_3_3.gemfile",
 		"oF": 0
 		},
-	"\/test\/gemfiles\/sass_3_4.gemfile": {
+	"/test/gemfiles/sass_3_4.gemfile": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/gemfiles\/sass_3_4.gemfile",
+		"oAP": "/test/gemfiles/sass_3_4.gemfile",
 		"oF": 0
 		},
-	"\/test\/gemfiles\/sass_head.gemfile": {
+	"/test/gemfiles/sass_head.gemfile": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/gemfiles\/sass_head.gemfile",
+		"oAP": "/test/gemfiles/sass_head.gemfile",
 		"oF": 0
 		},
-	"\/test\/node_mincer_test.rb": {
+	"/test/node_mincer_test.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/node_mincer_test.rb",
+		"oAP": "/test/node_mincer_test.rb",
 		"oF": 0
 		},
-	"\/test\/node_sass_compile_test.sh": {
+	"/test/node_sass_compile_test.sh": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/node_sass_compile_test.sh",
+		"oAP": "/test/node_sass_compile_test.sh",
 		"oF": 0
 		},
-	"\/test\/pages_test.rb": {
+	"/test/pages_test.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/pages_test.rb",
+		"oAP": "/test/pages_test.rb",
 		"oF": 0
 		},
-	"\/test\/sass_test.rb": {
+	"/test/sass_test.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/sass_test.rb",
+		"oAP": "/test/sass_test.rb",
 		"oF": 0
 		},
-	"\/test\/sprockets_rails_test.rb": {
+	"/test/sprockets_rails_test.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/sprockets_rails_test.rb",
+		"oAP": "/test/sprockets_rails_test.rb",
 		"oF": 0
 		},
-	"\/test\/support\/dummy_rails_integration.rb": {
+	"/test/support/dummy_rails_integration.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/support\/dummy_rails_integration.rb",
+		"oAP": "/test/support/dummy_rails_integration.rb",
 		"oF": 0
 		},
-	"\/test\/support\/reporting.rb": {
+	"/test/support/reporting.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/support\/reporting.rb",
+		"oAP": "/test/support/reporting.rb",
 		"oF": 0
 		},
-	"\/test\/test_helper.rb": {
+	"/test/test_helper.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/test_helper.rb",
+		"oAP": "/test/test_helper.rb",
 		"oF": 0
 		},
-	"\/test\/test_helper_rails.rb": {
+	"/test/test_helper_rails.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/test\/test_helper_rails.rb",
+		"oAP": "/test/test_helper_rails.rb",
 		"oF": 0
 		}
 	},
@@ -2244,7 +2244,7 @@
 	{
 		"enabled": 1,
 		"name": "Hook #1",
-		"predicateDataBase64Encoded": "YnBsaXN0MDDUAQIDBAUGYmNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFgcIDxQcJicqMTU6Oz5CRktMT1VZXV9VJG51bGzTCQoLDA0OXxAXTlNDb21wb3VuZFByZWRpY2F0ZVR5cGVfEA9OU1N1YnByZWRpY2F0ZXNWJGNsYXNzEAKAAoAV0hALERNaTlMub2JqZWN0c6ESgAOAFNQLFRYXGBkaG18QEU5TUmlnaHRFeHByZXNzaW9uXxAQTlNMZWZ0RXhwcmVzc2lvbl8QE05TUHJlZGljYXRlT3BlcmF0b3KAE4AOgASAEdUdHh8gCyEiIyQlWU5TT3BlcmFuZF5OU1NlbGVjdG9yTmFtZV8QEE5TRXhwcmVzc2lvblR5cGVbTlNBcmd1bWVudHOABoAFEAOACIANXHZhbHVlRm9yS2V5OtIfCygpEAGAB9IrLC0uWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1NlbGZFeHByZXNzaW9uoy0vMFxOU0V4cHJlc3Npb25YTlNPYmplY3TSEAsyNKEzgAmADNMLHzY3ODlZTlNLZXlQYXRogAsQCoAKXWlucHV0RnVsbFBhdGjSKyw8PV8QHE5TS2V5UGF0aFNwZWNpZmllckV4cHJlc3Npb26jPC8w0issP0BeTlNNdXRhYmxlQXJyYXmjP0EwV05TQXJyYXnSKyxDRF8QE05TS2V5UGF0aEV4cHJlc3Npb26kQ0UvMF8QFE5TRnVuY3Rpb25FeHByZXNzaW9u00cfC0hJSl8QD05TQ29uc3RhbnRWYWx1ZYAPEACAEF8QEmxpcHMgdHJhZGUgd2Vic2l0ZdIrLE1OXxAZTlNDb25zdGFudFZhbHVlRXhwcmVzc2lvbqNNLzDUC1BRUlNJKFRaTlNNb2RpZmllcldOU0ZsYWdzXk5TT3BlcmF0b3JUeXBlgBIQY9IrLFZXXxAVTlNJblByZWRpY2F0ZU9wZXJhdG9yo1ZYMF8QE05TUHJlZGljYXRlT3BlcmF0b3LSKyxaW18QFU5TQ29tcGFyaXNvblByZWRpY2F0ZaNaXDBbTlNQcmVkaWNhdGXSKyxBXqJBMNIrLGBhXxATTlNDb21wb3VuZFByZWRpY2F0ZaNgXDBfEA9OU0tleWVkQXJjaGl2ZXLRZGVUcm9vdIABAAgAEQAaACMALQAyADcAUABWAF0AdwCJAJAAkgCUAJYAmwCmAKgAqgCsALUAyQDcAPIA9AD2APgA+gEFAQ8BHgExAT0BPwFBAUMBRQFHAVQBWQFbAV0BYgFtAXYBiQGNAZoBowGoAaoBrAGuAbUBvwHBAcMBxQHTAdgB9wH7AgACDwITAhsCIAI2AjsCUgJZAmsCbQJvAnEChgKLAqcCqwK0Ar8CxwLWAtgC2gLfAvcC+wMRAxYDLgMyAz4DQwNGA0sDYQNlA3cDegN\/AAAAAAAAAgEAAAAAAAAAZgAAAAAAAAAAAAAAAAAAA4E=",
+		"predicateDataBase64Encoded": "YnBsaXN0MDDUAQIDBAUGYmNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFgcIDxQcJicqMTU6Oz5CRktMT1VZXV9VJG51bGzTCQoLDA0OXxAXTlNDb21wb3VuZFByZWRpY2F0ZVR5cGVfEA9OU1N1YnByZWRpY2F0ZXNWJGNsYXNzEAKAAoAV0hALERNaTlMub2JqZWN0c6ESgAOAFNQLFRYXGBkaG18QEU5TUmlnaHRFeHByZXNzaW9uXxAQTlNMZWZ0RXhwcmVzc2lvbl8QE05TUHJlZGljYXRlT3BlcmF0b3KAE4AOgASAEdUdHh8gCyEiIyQlWU5TT3BlcmFuZF5OU1NlbGVjdG9yTmFtZV8QEE5TRXhwcmVzc2lvblR5cGVbTlNBcmd1bWVudHOABoAFEAOACIANXHZhbHVlRm9yS2V5OtIfCygpEAGAB9IrLC0uWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1NlbGZFeHByZXNzaW9uoy0vMFxOU0V4cHJlc3Npb25YTlNPYmplY3TSEAsyNKEzgAmADNMLHzY3ODlZTlNLZXlQYXRogAsQCoAKXWlucHV0RnVsbFBhdGjSKyw8PV8QHE5TS2V5UGF0aFNwZWNpZmllckV4cHJlc3Npb26jPC8w0issP0BeTlNNdXRhYmxlQXJyYXmjP0EwV05TQXJyYXnSKyxDRF8QE05TS2V5UGF0aEV4cHJlc3Npb26kQ0UvMF8QFE5TRnVuY3Rpb25FeHByZXNzaW9u00cfC0hJSl8QD05TQ29uc3RhbnRWYWx1ZYAPEACAEF8QEmxpcHMgdHJhZGUgd2Vic2l0ZdIrLE1OXxAZTlNDb25zdGFudFZhbHVlRXhwcmVzc2lvbqNNLzDUC1BRUlNJKFRaTlNNb2RpZmllcldOU0ZsYWdzXk5TT3BlcmF0b3JUeXBlgBIQY9IrLFZXXxAVTlNJblByZWRpY2F0ZU9wZXJhdG9yo1ZYMF8QE05TUHJlZGljYXRlT3BlcmF0b3LSKyxaW18QFU5TQ29tcGFyaXNvblByZWRpY2F0ZaNaXDBbTlNQcmVkaWNhdGXSKyxBXqJBMNIrLGBhXxATTlNDb21wb3VuZFByZWRpY2F0ZaNgXDBfEA9OU0tleWVkQXJjaGl2ZXLRZGVUcm9vdIABAAgAEQAaACMALQAyADcAUABWAF0AdwCJAJAAkgCUAJYAmwCmAKgAqgCsALUAyQDcAPIA9AD2APgA+gEFAQ8BHgExAT0BPwFBAUMBRQFHAVQBWQFbAV0BYgFtAXYBiQGNAZoBowGoAaoBrAGuAbUBvwHBAcMBxQHTAdgB9wH7AgACDwITAhsCIAI2AjsCUgJZAmsCbQJvAnEChgKLAqcCqwK0Ar8CxwLWAtgC2gLfAvcC+wMRAxYDLgMyAz4DQwNGA0sDYQNlA3cDegN/AAAAAAAAAgEAAAAAAAAAZgAAAAAAAAAAAAAAAAAAA4E=",
 		"runOrder": 0,
 		"scriptSourceString": "",
 		"scriptType": 1,
@@ -2257,7 +2257,7 @@
 	"creationDate": 520132773,
 	"displayValue": "LIPS - Trade website",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "\/test\/dummy_node_mincer\/apple-touch-icon-144-precomposed.png",
+	"iconImageName": "/test/dummy_node_mincer/apple-touch-icon-144-precomposed.png",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
@@ -2265,141 +2265,94 @@
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
-	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
 	"autoprefixerEnableIEGrid": 0,
+	"babel7PresetType": 1,
+	"babelAllowRCFiles": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
-	"babelConfigFileHandlingType": 0,
+	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
 	"babelPlugins": {
+		"arrow-functions": {
+			"active": 0
+			},
 		"async-generator-functions": {
 			"active": 0
 			},
 		"async-to-generator": {
 			"active": 0
 			},
-		"async-to-module-method": {
+		"block-scoped-functions": {
+			"active": 0
+			},
+		"block-scoping": {
 			"active": 0
 			},
 		"class-properties": {
 			"active": 0
 			},
+		"classes": {
+			"active": 0
+			},
+		"computed-properties": {
+			"active": 0
+			},
 		"decorators": {
 			"active": 0
 			},
-		"decorators-legacy": {
+		"destructuring": {
 			"active": 0
 			},
 		"do-expressions": {
 			"active": 0
 			},
-		"es2015-arrow-functions": {
+		"dotall-regex": {
 			"active": 0
 			},
-		"es2015-block-scoped-functions": {
-			"active": 0
-			},
-		"es2015-block-scoping": {
-			"active": 0
-			},
-		"es2015-classes": {
-			"active": 0
-			},
-		"es2015-computed-properties": {
-			"active": 0
-			},
-		"es2015-constants": {
-			"active": 0
-			},
-		"es2015-destructuring": {
-			"active": 0
-			},
-		"es2015-duplicate-keys": {
-			"active": 0
-			},
-		"es2015-for-of": {
-			"active": 0
-			},
-		"es2015-function-name": {
-			"active": 0
-			},
-		"es2015-literals": {
-			"active": 0
-			},
-		"es2015-modules-amd": {
-			"active": 0
-			},
-		"es2015-modules-commonjs": {
-			"active": 0
-			},
-		"es2015-modules-systemjs": {
-			"active": 0
-			},
-		"es2015-modules-umd": {
-			"active": 0
-			},
-		"es2015-object-super": {
-			"active": 0
-			},
-		"es2015-parameters": {
-			"active": 0
-			},
-		"es2015-shorthand-properties": {
-			"active": 0
-			},
-		"es2015-spread": {
-			"active": 0
-			},
-		"es2015-sticky-regex": {
-			"active": 0
-			},
-		"es2015-template-literals": {
-			"active": 0
-			},
-		"es2015-typeof-symbol": {
-			"active": 0
-			},
-		"es2015-unicode-regex": {
-			"active": 0
-			},
-		"es3-member-expression-literals": {
-			"active": 0
-			},
-		"es3-property-literals": {
-			"active": 0
-			},
-		"es5-property-mutators": {
-			"active": 0
-			},
-		"eval": {
+		"duplicate-keys": {
 			"active": 0
 			},
 		"exponentiation-operator": {
 			"active": 0
 			},
-		"export-extensions": {
+		"export-default-from": {
+			"active": 0
+			},
+		"export-namespace-from": {
 			"active": 0
 			},
 		"external-helpers": {
 			"active": 0
 			},
-		"flow-comments": {
+		"flow-strip-types": {
 			"active": 0
 			},
-		"flow-strip-types": {
+		"for-of": {
 			"active": 0
 			},
 		"function-bind": {
 			"active": 0
 			},
-		"inline-environment-variables": {
+		"function-name": {
+			"active": 0
+			},
+		"function-sent": {
+			"active": 0
+			},
+		"instanceof": {
 			"active": 0
 			},
 		"jscript": {
+			"active": 0
+			},
+		"literals": {
+			"active": 0
+			},
+		"logical-assignment-operators": {
 			"active": 0
 			},
 		"member-expression-literals": {
@@ -2411,7 +2364,28 @@
 		"minify-booleans": {
 			"active": 0
 			},
+		"modules-amd": {
+			"active": 0
+			},
+		"modules-commonjs": {
+			"active": 0
+			},
+		"modules-systemjs": {
+			"active": 0
+			},
+		"modules-umd": {
+			"active": 0
+			},
+		"new-target": {
+			"active": 0
+			},
 		"node-env-inline": {
+			"active": 0
+			},
+		"nullish-coalescing-operator": {
+			"active": 0
+			},
+		"numeric-separator": {
 			"active": 0
 			},
 		"object-assign": {
@@ -2423,7 +2397,25 @@
 		"object-set-prototype-of-to-assign": {
 			"active": 0
 			},
+		"object-super": {
+			"active": 0
+			},
+		"optional-catch-binding": {
+			"active": 0
+			},
+		"optional-chaining": {
+			"active": 0
+			},
+		"parameters": {
+			"active": 0
+			},
+		"pipeline-operator": {
+			"active": 0
+			},
 		"property-literals": {
+			"active": 0
+			},
+		"property-mutators": {
 			"active": 0
 			},
 		"proto-to-assign": {
@@ -2459,53 +2451,46 @@
 		"remove-debugger": {
 			"active": 0
 			},
+		"reserved-words": {
+			"active": 0
+			},
 		"runtime": {
+			"active": 0
+			},
+		"shorthand-properties": {
 			"active": 0
 			},
 		"simplify-comparison-operators": {
 			"active": 0
 			},
+		"spread": {
+			"active": 0
+			},
+		"sticky-regex": {
+			"active": 0
+			},
 		"strict-mode": {
 			"active": 0
 			},
-		"syntax-async-generators": {
+		"template-literals": {
 			"active": 0
 			},
-		"syntax-class-properties": {
+		"throw-expressions": {
 			"active": 0
 			},
-		"syntax-decorators": {
-			"active": 0
-			},
-		"syntax-do-expressions": {
-			"active": 0
-			},
-		"syntax-export-extensions": {
-			"active": 0
-			},
-		"syntax-flow": {
-			"active": 0
-			},
-		"syntax-function-bind": {
-			"active": 0
-			},
-		"syntax-function-sent": {
-			"active": 0
-			},
-		"syntax-jsx": {
-			"active": 0
-			},
-		"syntax-object-rest-spread": {
-			"active": 0
-			},
-		"undeclared-variables-check": {
+		"typeof-symbol": {
 			"active": 0
 			},
 		"undefined-to-void": {
 			"active": 0
+			},
+		"unicode-property-regex": {
+			"active": 0
+			},
+		"unicode-regex": {
+			"active": 0
 			}
 		},
-	"babelPresetType": 193,
 	"babelRetainLines": 0,
 	"bowerAbbreviatedPath": "bower_components",
 	"bowerAutoCreateInfoFile": 1,
@@ -2514,6 +2499,7 @@
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
+	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
 	"buildFolderActive": 0,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
@@ -2871,6 +2857,10 @@
 			"active": 0,
 			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
+		"max-classes-per-file": {
+			"active": 0,
+			"optionString": "1"
+			},
 		"max-depth": {
 			"active": 0,
 			"optionString": "{'max': 4}"
@@ -2882,6 +2872,10 @@
 		"max-lines": {
 			"active": 0,
 			"optionString": "{'max': 300, 'skipBlankLines': true, 'skipComments': true}"
+			},
+		"max-lines-per-function": {
+			"active": 0,
+			"optionString": "{'max': 50, 'skipBlankLines': true, 'skipComments': true, 'IIFEs': false}"
 			},
 		"max-nested-callbacks": {
 			"active": 0,
@@ -2927,6 +2921,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-async-promise-executor": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-await-in-loop": {
 			"active": 0,
 			"optionString": ""
@@ -2945,10 +2943,6 @@
 			},
 		"no-case-declarations": {
 			"active": 1,
-			"optionString": ""
-			},
-		"no-catch-shadow": {
-			"active": 0,
 			"optionString": ""
 			},
 		"no-class-assign": {
@@ -3147,9 +3141,13 @@
 			"active": 0,
 			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
 			},
+		"no-misleading-character-class": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-mixed-operators": {
 			"active": 0,
-			"optionString": "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
+			"optionString": "{'groups': [['+', '-', '*', '/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
 			},
 		"no-mixed-requires": {
 			"active": 0,
@@ -3503,6 +3501,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"prefer-object-spread": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
@@ -3531,6 +3533,10 @@
 			"active": 0,
 			"optionString": "'always'"
 			},
+		"require-atomic-updates": {
+			"active": 0,
+			"optionString": ""
+			},
 		"require-await": {
 			"active": 0,
 			"optionString": ""
@@ -3538,6 +3544,10 @@
 		"require-jsdoc": {
 			"active": 0,
 			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
+			},
+		"require-unicode-regexp": {
+			"active": 0,
+			"optionString": ""
 			},
 		"require-yield": {
 			"active": 1,
@@ -3593,7 +3603,7 @@
 			},
 		"spaced-comment": {
 			"active": 0,
-			"optionString": "'always', {'line': {'markers': ['\/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
+			"optionString": "'always', {'line': {'markers': ['/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
 			},
 		"strict": {
 			"active": 0,
@@ -3653,7 +3663,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerAddress": "http://localhost:8888",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
@@ -4048,7 +4058,6 @@
 		"escapeHTMLCharacters": 0,
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
-		"outputStyle": 0,
 		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
@@ -4067,7 +4076,7 @@
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*-min.js",
-		"autoOutputPathRelativePath": "\/min",
+		"autoOutputPathRelativePath": "/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
@@ -4099,19 +4108,19 @@
 		"allowInsecureImports": 0,
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
-		"disableJavascript": 0,
+		"enableJavascript": 0,
 		"ieCompatibility": 1,
+		"mathStyle": 0,
 		"outputStyle": 0,
-		"relativeURLS": 0,
+		"rewriteURLStyle": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"strictImports": 0,
-		"strictMath": 0,
 		"strictUnits": 0
 		},
 	"languageDefaultsMARKDOWN": {
@@ -4167,7 +4176,7 @@
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
@@ -4196,7 +4205,7 @@
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "stylus",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
@@ -4220,36 +4229,70 @@
 	"languageDefaultsTS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "\/js",
+		"autoOutputPathRelativePath": "/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createDeclarationFile": 0,
 		"createSourceMap": 0,
-		"jsxMode": 0,
 		"minifyOutput": 0,
 		"moduleResolutionType": 0,
 		"moduleType": 2,
-		"noImplicitAny": 0,
-		"preserveConstEnums": 0,
 		"removeComments": 0,
-		"suppressImplicitAnyIndexErrors": 0,
 		"targetECMAVersion": 0
 		},
 	"languageDefaultsUserDefined": [
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, /storage/framework/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
+	"tsAllowSyntheticDefaultImports": 0,
+	"tsAllowUnreachableCode": 0,
+	"tsAllowUnusedLabels": 0,
+	"tsAlwaysStrict": 0,
+	"tsDownlevelIteration": 0,
+	"tsEmitBOM": 0,
+	"tsEmitDecoratorMetadata": 0,
+	"tsESModuleInterop": 0,
+	"tsForceConsistentCasingInFileNames": 0,
+	"tsImportHelpers": 0,
+	"tsIsolatedModules": 0,
+	"tsJSXFactory": "React.createElement",
+	"tsKeyofStringsOnly": 0,
+	"tsNoEmitHelpers": 0,
+	"tsNoFallthroughCasesInSwitch": 0,
+	"tsNoImplicitAny": 0,
+	"tsNoImplicitReturns": 0,
+	"tsNoImplicitThis": 0,
+	"tsNoImplicitUseStrict": 0,
+	"tsNoLib": 0,
+	"tsNoResolve": 0,
+	"tsNoStrictGenericChecks": 0,
+	"tsNoUnusedLocals": 0,
+	"tsNoUnusedParameters": 0,
+	"tsPreserveConstEnums": 0,
+	"tsPreserveSymlinks": 0,
+	"tsResolveJsonModule": 0,
+	"tsSkipLibCheck": 0,
+	"tsStrictFunctionTypes": 0,
+	"tsStrictNullChecks": 0,
+	"tsStrictPropertyInitialization": 0,
+	"tsStripInternal": 0,
+	"tsSuppressExcessPropertyErrors": 0,
+	"tsSuppressImplicitAnyIndexErrors": 0,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
-		"ascii-only": {
+		"arguments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"bare-returns": {
+		"bare_returns": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -4257,11 +4300,11 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"bracketize": {
+		"braces": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"cascade": {
+		"collapse_vars": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -4285,6 +4328,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"directives": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"drop_console": {
 			"active": 0,
 			"flagValue": -1
@@ -4301,7 +4348,15 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"expression": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -4309,20 +4364,32 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"if_return": {
+		"html5_comments": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-level": {
+		"ie8": {
 			"active": 0,
-			"flagValue": 4
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
 			},
 		"indent-start": {
 			"active": 0,
 			"flagValue": 0
 			},
-		"inline-script": {
+		"indent_level": {
 			"active": 0,
+			"flagValue": 4
+			},
+		"inline": {
+			"active": 1,
+			"flagValue": 3
+			},
+		"inline_script": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"join_vars": {
@@ -4337,6 +4404,14 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"keep_infinity": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_quoted_props": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"loops": {
 			"active": 1,
 			"flagValue": -1
@@ -4345,12 +4420,20 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"max-line-len": {
+		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
 			},
 		"negate_iife": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"passes": {
+			"active": 1,
+			"flagValue": 1
+			},
+		"preserve_line": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"properties": {
@@ -4361,11 +4444,19 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"quote-keys": {
+		"quote_keys": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"screw-ie8": {
+		"quote_style": {
+			"active": 1,
+			"flagValue": 0
+			},
+		"reduce_funcs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"reduce_vars": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -4377,23 +4468,51 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"sort": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"space-colon": {
+		"shebang": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"support-ie8": {
-			"active": 0,
+		"side_effects": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"switches": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"toplevel": {
 			"active": 0,
 			"flagValue": -1
 			},
+		"typeofs": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_comps": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_Function": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_undefined": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -4405,9 +4524,17 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"webkit": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"width": {
 			"active": 1,
 			"flagValue": 80
+			},
+		"wrap_iife": {
+			"active": 0,
+			"flagValue": -1
 			}
 		},
 	"uglifyReservedNamesString": "$",
